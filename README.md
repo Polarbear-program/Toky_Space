@@ -8,6 +8,7 @@
 >
 >> What is NP-complete? And why is it interesting?
 >>> First the definition, NP problems(Non-deterministic Polynomial problems) is a computational decision problem that both in the class NP and NP-hard.
->>> There's no efficient algorithm for an NP-complete problem that has ever been found, but no one can proven nor it never exist.
+>>> There's no efficient algorithm for an NP-complete problem that has ever been found, but no one can proven nor it never exist.(Bronstein said these NP-problem terms are full of larping, true *xD* )
 >
 >> Parallelism
+>>> Chip must have several processing "cores" because if one of its core went broken then others can still function in a more computations per second sense.
