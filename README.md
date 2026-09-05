@@ -32,4 +32,4 @@
             def twoSum(self, nums: list[int], target: int) -> list[int]:
                 # some computing here
                 # return resulting list of int
-        
+- "-> list[int]:" This is used to return the type(rtype)         
