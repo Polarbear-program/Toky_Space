@@ -7,7 +7,7 @@ class Solution(object):
         for i in range(n):  # i sequence start from 0 -> given length of n
             numMap[nums[i]] = i
 
-        # Find the complement
+        # Find the complement: x + y = Target. For x = nums[i] and y = complement
         for i in range(n):
             complement = target - nums[i]
             if complement in numMap and numMap[complement] != i:
