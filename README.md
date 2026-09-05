@@ -5,18 +5,18 @@
 >
 > Algorithms_Programming 
 >> A *Data Structure* is a way to store and organize data in order to access it and modify it. -> There's no best *Data Structure*, so it is crucial to know the strengths and limitations of each one
----
+
 
 ### NP-Complete ###
 > What is NP-complete? And why is it interesting?
 > Definition 
 >> NP problems(Non-deterministic Polynomial problems) are computational decision problems that both in the class NP and NP-hard.
 >>> There's no efficient algorithm for an NP-complete problem that has ever been found, but no one can prove it, nor has it ever existed.(Bronstein said these NP-problem terms are full of larping, true *xD* )
----
+
 
 ### Parallelism ###
 > Chip must have several processing "cores" because if one of its cores went broken, then others can still function in a more computations-per-second sense.
----
+
 
 ### Efficiency ###
 > Different algorithms devised to slove the same problem often differ dramatically in their efficiency. It can be significant not just due to the differences of software and hardware.
