@@ -35,6 +35,7 @@
 - "-> list[int]:" This is used to return the type(rtype)
 
 - To assign key(dictionaries) to each position/index of an array:
->         # Build hash table key[array[index]] -> index
+>         
+            # Build hash table key[array[index]] -> index
             for i in range(len(array_given)):
                 map[array_given[index]] = i         
