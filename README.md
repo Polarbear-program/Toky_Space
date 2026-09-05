@@ -37,4 +37,4 @@
 - To assign key(dictionaries) to each position/index of an array:
 >         # Build hash table key[array[index]] -> index
             for i in range(len(array_given)):
-            map[array_given[index]] = i         
+                map[array_given[index]] = i         
